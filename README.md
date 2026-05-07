@@ -129,6 +129,6 @@ Table: **crypto_market_data**
 **Wangeci Ndovu**
 **Data Engineer**
 
-dev.to link https://dev.to/wangeci_ndovu/crypto-etl-pipeline-akf
+dev.to link (https://dev.to/wangeci_ndovu/crypto-etl-pipeline-akf)
 
 
